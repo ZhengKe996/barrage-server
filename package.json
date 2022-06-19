@@ -1,0 +1,17 @@
+{
+  "name": "barrage-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.1.0",
+    "ws": "^8.8.0"
+  }
+}
